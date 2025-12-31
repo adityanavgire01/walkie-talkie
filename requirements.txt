@@ -1,0 +1,9 @@
+openai
+deepgram-sdk
+python-dotenv
+sounddevice
+soundfile
+fastapi
+uvicorn[standard]
+python-multipart
+
